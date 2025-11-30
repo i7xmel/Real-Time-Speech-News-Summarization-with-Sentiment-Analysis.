@@ -91,5 +91,8 @@ Voice analysis categorizes sentiment into:
 
 ## Summarization
 
+<img width="1145" height="499" alt="image" src="https://github.com/user-attachments/assets/45ab8989-8f6e-4275-b911-039e33324927" />
+
+
 <img width="1133" height="511" alt="image" src="https://github.com/user-attachments/assets/a5da8bcd-08cc-4782-be4b-0e6da7128520" />
 
